@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript
 - 😄 ele/dele
 
-<div align="center">
+<div align="center" display="flex">
     <a href="https://github.com/brenopinna">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenopinna&show_icons=true&theme=algolia&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopinna&layout=compact&langs_count=7&theme=algolia"/>
