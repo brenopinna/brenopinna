@@ -21,7 +21,7 @@
 
 <div>
 
-[![Top Langs](https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&layout=compact&exclude_repo=readme-stats&custom_title=Linguagens+mais+usadas&theme=transparent)](https://github.com/brenopinna/readme-stats)
+[![Top Langs](https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&exclude_repo=readme-stats&custom_title=Linguagens+mais+usadas&theme=transparent)](https://github.com/brenopinna/readme-stats)
 
 </div>
 
