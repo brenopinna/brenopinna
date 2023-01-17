@@ -1,4 +1,4 @@
-# Opa, tudo bom? Meu nome é Breno Pinna 👋🏻
+# Opa, tudo bom? Meu nome é Breno Pinna <img height='32px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' alt='shaking hand emoji' />
 
 - :book: Estudante, 16y
 - :world_map: RJ, Brasil
