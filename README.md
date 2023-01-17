@@ -5,6 +5,8 @@
 - :up: Atualmente estudando React JS
 - :nerd_face: Apaixonado por programação e tecnologia
 
+
+
 ## Tecnologias que uso:
 
 <div>
@@ -15,4 +17,11 @@
     <img align='center' height='40' width='60' title='ReactJS' alt='react' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' />
     <img align='center' height='40' width='60' title='jQuery' alt='jquery' src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg' />
     <img align='center' height='40' width='60' title='Git' alt='git' src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' />
+</div><br>
+
+<div>
+
+[![Top Langs](https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&layout=compact&exclude_repo=readme-stats&custom_title=Linguagens+mais+usadas&theme=transparent)](https://github.com/brenopinna/readme-stats)
+
 </div>
+
