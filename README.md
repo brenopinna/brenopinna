@@ -5,8 +5,6 @@
 - :up: Atualmente estudando React JS
 - :nerd_face: Apaixonado por programação e tecnologia
 
-
-
 ## Tecnologias que uso:
 
 <div>
@@ -19,9 +17,7 @@
     <img align='center' height='40' width='60' title='Git' alt='git' src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' />
 </div><br>
 
-<div>
-
-[![Top Langs](https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&exclude_repo=readme-stats&custom_title=Linguagens+mais+usadas&theme=transparent)](https://github.com/brenopinna/readme-stats)
-
+<div style="display: flex; flex-direction: column; align-items: center; gap: 50px">
+<img width="50%" src="https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&exclude_repo=readme-stats&custom_title=Linguagens+mais+usadas&theme=transparent" alt="Top Langs">
+<img src="https://wakatime.com/share/@c361f97a-e397-4b64-a101-5ab22868eacb/9177cc04-2e5a-426a-bb5c-4550ee6d38ac.svg" alt="Coding Time">
 </div>
-
