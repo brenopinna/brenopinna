@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=600&size=30&duration=2000&pause=400&color=996DFF&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+World!;My+name+is+Breno+Pinna%2C;and+I'm+a+web+developer!" style="display: block;width: 100%; max-width: 700px; margin: 0 auto 50px;" alt="Typing SVG" />
 </a>
 
-# Opa, tudo bom? Meu nome é <img height='32px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' alt='shaking hand emoji' />
-
 - :book: Estudante, 16y
 - :world_map: RJ, Brasil
 - :up: Atualmente estudando React JS
