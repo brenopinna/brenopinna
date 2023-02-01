@@ -1,4 +1,10 @@
-# Opa, tudo bom? Meu nome é Breno Pinna <img height='32px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' alt='shaking hand emoji' />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=996DFF"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=600&size=30&duration=2000&pause=400&color=996DFF&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+World!;My+name+is+Breno+Pinna%2C;and+I'm+a+web+developer!" style="display: block;width: 100%; max-width: 700px; margin: 0 auto 50px;" alt="Typing SVG" />
+</a>
+
+# Opa, tudo bom? Meu nome é <img height='32px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' alt='shaking hand emoji' />
 
 - :book: Estudante, 16y
 - :world_map: RJ, Brasil
@@ -20,3 +26,4 @@
 <img src="https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&exclude_repo=readme-stats&custom_title=Linguagens+mais+usadas&theme=transparent" alt="Top Langs">
 
 <img src="https://wakatime.com/share/@c361f97a-e397-4b64-a101-5ab22868eacb/9177cc04-2e5a-426a-bb5c-4550ee6d38ac.svg" alt="Coding Time">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=996DFF"/>
