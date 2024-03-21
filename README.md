@@ -9,7 +9,7 @@
 - :up: Cursando Ciência da Computação - UFF
 - :nerd_face: Apaixonado por programação e tecnologia
 
-## Tecnologias que uso:
+## Tecnologias:
 
 <div>
     <img align='center' height='40' width='60' title='Python' alt='Python' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' />
