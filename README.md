@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=996DFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=600&size=30&duration=2000&pause=400&color=996DFF&center=true&vCenter=true&width=600&height=70&lines=Olá%2C+Mundo!;Meu+nome+é+Breno+Pinna%2C;eu+sou+um+desenvolvedor+web!" style="display: block;width: 100%; max-width: 700px; margin: 0 auto 50px;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=600&size=30&duration=2000&pause=400&color=996DFF&center=true&vCenter=true&width=600&height=70&lines=Olá%2C+Mundo!;Meu+nome+é+Breno+Pinna%2C;eu+sou+um+cientista+da+computação!" style="display: block;width: 100%; max-width: 700px; margin: 0 auto 50px;" alt="Typing SVG" />
 
 ## Sobre mim
 
-- :book: Estudante, 17y
+- :book: Estudante, 19 anos
 - :world_map: RJ, Brasil
 - :up: Cursando Ciência da Computação - UFF
-- :nerd_face: Apaixonado por programação e tecnologia
+- :nerd_face: Um grande fã do conhecimento!
 
 ## Tecnologias:
 
