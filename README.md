@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=996DFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=600&size=30&duration=2000&pause=400&color=996DFF&center=true&vCenter=true&width=600&height=70&lines=Olá%2C+Mundo!;Meu+nome+é+Breno+Pinna%2C;eu+sou+um+cientista+da+computação!" style="display: block;width: 100%; max-width: 700px; margin: 0 auto 50px;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=600&size=24&duration=2000&pause=400&color=996DFF&center=true&vCenter=true&width=600&height=70&lines=Olá%2C+Mundo!;Meu+nome+é+Breno+Pinna%2C;eu+sou+um+cientista+da+computação!" style="display: block;width: 100%; max-width: 700px; margin: 0 auto 50px;" alt="Typing SVG" />
 
 ## Sobre mim
 
@@ -24,6 +24,7 @@
     <img align='center' height='40' width='60' title='NodeJS' alt='NodeJS' src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' />
     <img align='center' height='40' width='60' title='ExpressJS' alt='ExpressJS' src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' />
     <img align='center' height='40' width='60' title='MongoDB' alt='MongoDB' src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' />
+    <img align='center' height='40' width='60' title='C' alt='C' src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' />
 </div>
 <br><br>
 <p align="center">
