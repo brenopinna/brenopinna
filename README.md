@@ -28,8 +28,11 @@
 </div>
 <br><br>
 <p align="center">
-<img src="https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&exclude_repo=readme-stats&custom_title=Linguagens+nos+repositórios&theme=transparent&hide_border=true&title_color=996DFF" alt="Top Langs">
+<img src="https://readme-stats-breno.vercel.app/api?username=brenopinna&exclude_repo=readme-stats&theme=transparent&locale=pt-br&hide_border=true&title_color=996DFF" alt="Breno's GitHub Stats">
 </p>
 <p align="center">
-<img width="85%" src="https://wakatime.com/share/@c361f97a-e397-4b64-a101-5ab22868eacb/8a36a195-09c6-4ce7-9691-727685443ec5.svg" alt="Coding Time">
+<img src="https://readme-stats-breno.vercel.app/api/top-langs/?username=brenopinna&exclude_repo=readme-stats&locale=pt-br&theme=transparent&hide_border=true&title_color=996DFF" alt="Top Langs">
+</p>
+<p align="center">
+<img width="85%" src="https://wakatime.com/share/@c361f97a-e397-4b64-a101-5ab22868eacb/7478afbc-6a9f-48c6-a7b4-7a3f9d08007f.svg" alt="Coding Time">
 </p>
